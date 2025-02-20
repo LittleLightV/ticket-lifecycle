@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-![image](https://github.com/user-attachments/assets/b425f0b3-ec8f-4371-9a9c-c41112cd56f4)
+<img src="https://imgur.com/Y4Cs5Ir.png" height="80%" width="80%"/>
 
 
 </p>
@@ -37,18 +37,18 @@ This first image shows a user creating a HIGH priority ticket for a system outag
 <br />
 
 <p>
-![Internal Ticket Notation and Assignment](https://github.com/user-attachments/assets/39078bbf-2c26-48e5-b112-2361a8fe7c9f)
+<img src="https://imgur.com/N5YL79O.png" height="80%" width="80%"/>
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now we have moved over into T1 Support Agent team osTicket account. Where in this scenario, John, calls the user and ask follow up questions to assign it to correct dpartment.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/FOMq9Hc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We are now logged into Admin Jane's osTicket account. She has all access and is able to take the required troubleshooting steps and close the ticket.
 </p>
 <br />
